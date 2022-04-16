@@ -3,11 +3,13 @@
 Simple CO2 detector for arduino boards.
 
 ## Hardware required
+
 - 1x Arduino board (or compatible)
 - 1x MQ135 sensor module
 - 5x F-M female to male Dupont wires
 
 ## Software required
+
 - Arduino IDE: https://www.arduino.cc/en/software
 - MQ135 library: https://github.com/Phoenix1747/MQ135
 
