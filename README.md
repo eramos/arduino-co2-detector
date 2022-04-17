@@ -16,7 +16,7 @@ Simple CO2 detector for arduino boards.
 ## Usage
 
 1. Wire the components to the board
-2. Now you need to leave the board ON for 24/48h outside. It doesn't need to have the program uploaded. This step is needed for the MQ135 module to be heated
+2. Now you need to leave the board ON for 24/48h. It doesn't need to have the program uploaded. This step is needed for the MQ135 module to be heated
 3. Open arduino's IDE
 4. Edit arduino-co2-detector.ino and set CALIBRATE_MODE to true
 5. Upload the program with arduino's IDE
